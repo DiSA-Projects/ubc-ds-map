@@ -1,18 +1,18 @@
 # Digital Scholarship at UBC
 ## Home
-- [[DiSA (Digital Scholarship in the Arts)]] ([website](https://disa.arts.ubc.ca/))
+- DiSA (Digital Scholarship in the Arts) ([website](https://disa.arts.ubc.ca/))
 
 ## UBC Sites
 
 ### Key Partners
-- [[PHH (Public Humanities Hub)]] ([website](https://publichumanities.ubc.ca/))
-- [[Research Commons (UBC Library)]] ([website](https://researchcommons.library.ubc.ca/))
+- PHH (Public Humanities Hub) ([website](https://publichumanities.ubc.ca/))
+- Research Commons (UBC Library) ([website](https://researchcommons.library.ubc.ca/))
 - VPRI (Vice President for Research & Innovation) ([website](https://research.ubc.ca/))
 
 ### Service & Support
 - Applied Statistics and Data Science Group ([website](https://asda.stat.ubc.ca/))
-- [[ARC (Advanced Research Computing)]] ([website](https://arc.ubc.ca/))
-- [[Arts ISIT (Arts Instructional Support and Information Technology)]] ([website](https://isit.arts.ubc.ca/))
+- ARC (Advanced Research Computing) ([website](https://arc.ubc.ca/))
+- Arts ISIT (Arts Instructional Support and Information Technology) ([website](https://isit.arts.ubc.ca/))
 - CTLT (Centre for Teaching and Learning Technology) ([website](https://ctlt.ubc.ca/))
 - CIC (Cloud Innovation Centre) ([website](https://cic.ubc.ca/))
 - DXL (Digital Experience Lab) ([website](https://cio.ubc.ca/tech-labs/digital-experience-lab))
