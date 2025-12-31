@@ -1,0 +1,2 @@
+
+Computer vision is a subfield of AI that equips machines with the ability to process, analyze, and interpret visual inputs such as images and videos. It uses machine learning to derive meaningful information from visual data and operates as the interaction between three processes that collaborate and inform each other: recognition, reconstruction, and reorganization. This subfield includes text extraction from images through OCR (Optical Character Recognition) and HTR (Handwritten Text Recognition).

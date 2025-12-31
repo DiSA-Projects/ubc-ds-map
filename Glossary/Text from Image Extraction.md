@@ -1,0 +1,8 @@
+
+Text extraction is the process of turning images of text into an editable format (usually returned as a .txt file or JSON). Text extraction tools and code libraries rely on [[Optical Character Recognition (OCR)]] and [[Handwritten Text Recognition (HTR)]] approaches to interpret images of writing. OCR excels at reading images of printed text, whereas HTR can interpret handwritten text. The range of text extraction tools spans full-featured platforms like [[Transkribus]] to [[Python]] libraries like [[pyTesseract]] and [[EasyOCR]]. Many modern tools are aided by AI techniques like machine learning and natural language processing.
+
+### Why Text Extraction?
+
+We use text extraction tools to quickly and accurately extract text from one data format that cannot be easily read or analyzed (images) into a new format that can be analyzed through computational and digital methods and tools. While manual transcription by a skilled human reader tends to be the most accurate means of extracting text, sometimes the volume of scanned images requiring transcription would take too many human work hours to complete in a reasonable time.
+
+Automating this process by using an OCR/HRT tool can help researchers access the text data sets they need in a more timely and efficient manner. Although OCR has been around since the 1960s, the tools and approaches have continued to evolve. Many popular text data extraction tools incorporate new technologies like AI and machine learning to aid in increasing the accuracy of transcription and handling particularly complex situations and layouts.
