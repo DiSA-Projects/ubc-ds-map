@@ -1,4 +1,5 @@
-An overview of all units, research hubs, resources, and training related to digital scholarship at UBC. Also includes a glossary of DS terms.
+An overview of all units, research hubs, resources, and training related to digital scholarship at UBC. Also includes a glossary of DS terms. This archive is set up as an Obsidian knowledge base, but can be accessed as individual Markdown pages.
+
 ## Home
 - [[DiSA (Digital Scholarship in the Arts)]] ([website](https://disa.arts.ubc.ca/))
 
